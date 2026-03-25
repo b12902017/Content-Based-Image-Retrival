@@ -1,2 +1,5 @@
 database/
 runs/
+features/
+__pycache__/
+/.pyc
