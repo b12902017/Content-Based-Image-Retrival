@@ -1,0 +1,12 @@
+{
+  "method": "gradhist",
+  "params": {
+    "grid": 3,
+    "bins": 9
+  },
+  "metric_default": "chi2",
+  "N": 600,
+  "D": 81,
+  "root": "/mnt/c/Users/user/Desktop/code/Cognitive_Computing/database",
+  "created_at": "2025-11-08 18:28:33"
+}
